@@ -33,4 +33,4 @@ Cenário: Consulta de CEP Inexistente
        
   Atenção: Caso desejar que o resultado do teste seja 'FAILED' alterar para o CEP 18010003 (SOROCABA). Deste modo o webservices dos
            Correios irá retornar ao método o Código do IBGE 3552205 que quando comparado com o valor esperado "-1" irá gerar
-           uma comparação não assertiva no médoto 'ASSERT' (FAILED).
+           uma comparação não assertiva no método 'ASSERT' (FAILED).
